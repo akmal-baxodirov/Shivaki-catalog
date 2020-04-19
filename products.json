@@ -1,0 +1,370 @@
+{
+    "catalog":[
+        {
+            "id": 1,
+            "img": "./assets/img/stiralka_324x380.png",
+            "title":"Стиральные машины"
+        },
+        {
+            "id": 2,
+            "img": "./assets/img/plita_324x380_90OluKM.png",
+            "title":"Кухонные плиты"
+        },
+        {
+            "id": 3,
+            "img": "./assets/img/conder_324x380_PJFue0f.png",
+            "title":"Кондиционеры"
+        },
+        {
+            "id": 4,
+            "img": "./assets/img/vityaj_324x380_gpJch3I.png",
+            "title":"Вытяжки"
+        },
+        {
+            "id": 5,
+            "img": "./assets/img/tv_324x380_ySyeX8d.png",
+            "title":"Телевизоры"
+        },
+        {
+            "id": 6,
+            "img": "./assets/img/xolod_324x380_mlBoQ8F_oFdjPdP.png",
+            "title":"Холодильники"
+        },
+        {
+            "id": 7,
+            "img": "./assets/img/mocrowave_324x380.png",
+            "title":"Микроволновые печи"
+        },
+        {
+            "id": 8,
+            "img": "./assets/img/minipech_324x380.png",
+            "title":"Мелкая бытовая техника"
+        }
+    ],
+    "products":[
+        {
+            "catalogId":1,
+            "id":1,
+            "img":"./assets/img/Stiralka/80kwhite.jpg",
+            "title":"Стиральная машина Shivaki 80К124-I"
+        },
+        {
+            "catalogId":1,
+            "id":2,
+            "img":"./assets/img/Stiralka/70kwhite.png",
+            "title":"Стиральная машина Shivaki 70К124-I"
+        },
+        {
+            "catalogId":1,
+            "id":3,
+            "img":"./assets/img/Stiralka/tm65blue.jpg",
+            "title":"Полуавтоматическая стиральная машина Shivaki ART TM 65"
+        },
+        {
+            "catalogId":1,
+            "id":4,
+            "img":"./assets/img/Stiralka/te60lblue.jpg",
+            "title":"Полуавтоматическая стиральная машина Shivaki ART TE 60 L"
+        },
+        {
+            "catalogId":1,
+            "id":5,
+            "img":"./assets/img/Stiralka/tg60white.jpg",
+            "title":"Полуавтоматическая стиральная машина Shivaki TG 60F 3D"
+        },
+        {
+            "catalogId":1,
+            "id":6,
+            "img":"./assets/img/Stiralka/tg80grey.jpg",
+            "title":"Полуавтоматическая стиральная машина Shivaki TG 80 P"
+        },
+        {
+            "catalogId":1,
+            "id":7,
+            "img":"./assets/img/Stiralka/TG100FPwhite.png",
+            "title":"Полуавтоматическая стиральная машина Shivaki TG 100 FP"
+        },
+        {
+            "catalogId":1,
+            "id":8,
+            "img":"./assets/img/Stiralka/TC100.png",
+            "title":"Стиральные машины"
+        },
+        {
+            "catalogId":2,
+            "id":1,
+            "img":"./assets/img/gazplita/Shivaki-6300-k_1.png",
+            "title":"Стиральная машина Shivaki 80К124-I"
+        },
+        {
+            "catalogId":2,
+            "id":2,
+            "img":"./assets/img/gazplita/6301white.jpg",
+            "title":"Стиральная машина Shivaki 70К124-I"
+        },
+        {
+            "catalogId":2,
+            "id":3,
+            "img":"./assets/img/gazplita/6302brown.jpg",
+            "title":"Полуавтоматическая стиральная машина Shivaki ART TM 65"
+        },
+        {
+            "catalogId":2,
+            "id":4,
+            "img":"./assets/img/gazplita/Shivaki-6400-g_1.png",
+            "title":"Полуавтоматическая стиральная машина Shivaki ART TE 60 L"
+        },
+        {
+            "catalogId":2,
+            "id":5,
+            "img":"./assets/img/gazplita/6401white.jpg",
+            "title":"Полуавтоматическая стиральная машина Shivaki TG 60F 3D"
+        },
+        {
+            "catalogId":2,
+            "id":6,
+            "img":"./assets/img/gazplita/6402brown.jpg",
+            "title":"Полуавтоматическая стиральная машина Shivaki TG 80 P"
+        },
+        {
+            "catalogId":2,
+            "id":7,
+            "img":"./assets/img/gazplita/6403.jpg",
+            "title":"Полуавтоматическая стиральная машина Shivaki TG 100 FP"
+        },
+        {
+            "catalogId":2,
+            "id":8,
+            "img":"./assets/img/gazplita/6403.jpg",
+            "title":"Полуавтоматическая стиральная машина Shivaki TG 100 FP"
+        },
+        {
+            "catalogId":3,
+            "id":1,
+            "img":"./assets/img/cond/emura12.jpg",
+            "title":"Стиральная машина Shivaki 80К124-I"
+        },
+        {
+            "catalogId":3,
+            "id":2,
+            "img":"./assets/img/cond/emura12.jpg",
+            "title":"Стиральная машина Shivaki 70К124-I"
+        },
+        {
+            "catalogId":3,
+            "id":3,
+            "img":"./assets/img/cond/emura12.jpg",
+            "title":"Полуавтоматическая стиральная машина Shivaki ART TM 65"
+        },
+        {
+            "catalogId":3,
+            "id":4,
+            "img":"./assets/img/cond/Emura-inverter-12.png",
+            "title":"Полуавтоматическая стиральная машина Shivaki ART TE 60 L"
+        },
+        {
+            "catalogId":3,
+            "id":5,
+            "img":"./assets/img/cond/Шиваки-Аврора-9.png",
+            "title":"Полуавтоматическая стиральная машина Shivaki TG 60F 3D"
+        },
+        {
+            "catalogId":3,
+            "id":6,
+            "img":"./assets/img/cond/Шиваки-Аврора-9.png",
+            "title":"Полуавтоматическая стиральная машина Shivaki TG 80 P"
+        },
+        {
+            "catalogId":3,
+            "id":7,
+            "img":"./assets/img/cond/Шиваки-Аврора-9.png",
+            "title":"Полуавтоматическая стиральная машина Shivaki TG 100 FP"
+        },
+        {
+            "catalogId":4,
+            "id":1,
+            "img":"./assets/img/vitijka/0960Lwhite.jpg",
+            "title":"Стиральная машина Shivaki 80К124-I"
+        },
+        {
+            "catalogId":4,
+            "id":2,
+            "img":"./assets/img/vitijka/1160white.jpg",
+            "title":"Стиральная машина Shivaki 70К124-I"
+        },
+        {
+            "catalogId":4,
+            "id":3,
+            "img":"./assets/img/vitijka/0660white.png",
+            "title":"Полуавтоматическая стиральная машина Shivaki ART TM 65"
+        },
+        {
+            "catalogId":5,
+            "id":1,
+            "img":"./assets/img/televizor/32sh90g.png",
+            "title":"Стиральная машина Shivaki 80К124-I"
+        },
+        {
+            "catalogId":5,
+            "id":2,
+            "img":"./assets/img/televizor/us32h4103.png",
+            "title":"Стиральная машина Shivaki 70К124-I"
+        },
+        {
+            "catalogId":5,
+            "id":3,
+            "img":"./assets/img/televizor/32sh90gSmart.png",
+            "title":"Полуавтоматическая стиральная машина Shivaki ART TM 65"
+        },
+        {
+            "catalogId":5,
+            "id":4,
+            "img":"./assets/img/televizor/43sf90g.jpg",
+            "title":"Полуавтоматическая стиральная машина Shivaki ART TE 60 L"
+        },
+        {
+            "catalogId":5,
+            "id":5,
+            "img":"./assets/img/televizor/us43h3303.png",
+            "title":"Полуавтоматическая стиральная машина Shivaki TG 60F 3D"
+        },
+        {
+            "catalogId":5,
+            "id":6,
+            "img":"./assets/img/televizor/us43h3403.png",
+            "title":"Полуавтоматическая стиральная машина Shivaki TG 80 P"
+        },
+        {
+            "catalogId":5,
+            "id":7,
+            "img":"./assets/img/televizor/US32H1201.png",
+            "title":"Полуавтоматическая стиральная машина Shivaki TG 100 FP"
+        },
+        {
+            "catalogId":5,
+            "id":8,
+            "img":"./assets/img/televizor/US43H1401.png",
+            "title":"Стиральная машина Shivaki 80К124-I"
+        },
+        {
+            "catalogId":5,
+            "id":9,
+            "img":"./assets/img/televizor/43su20h.jpg",
+            "title":"Стиральная машина Shivaki 70К124-I"
+        },
+        {
+            "catalogId":5,
+            "id":10,
+            "img":"./assets/img/televizor/us50h3303.png",
+            "title":"Полуавтоматическая стиральная машина Shivaki ART TM 65"
+        },
+        {
+            "catalogId":5,
+            "id":11,
+            "img":"./assets/img/televizor/us50h3403.png",
+            "title":"Стиральная машина Shivaki 80К124-I"
+        },
+        {
+            "catalogId":5,
+            "id":12,
+            "img":"./assets/img/televizor/50su20h.jpg",
+            "title":"Стиральная машина Shivaki 70К124-I"
+        },
+        {
+            "catalogId":5,
+            "id":13,
+            "img":"./assets/img/televizor/55su20h.jpg",
+            "title":"Полуавтоматическая стиральная машина Shivaki ART TM 65"
+        },
+        {
+            "catalogId":6,
+            "id":1,
+            "img":"./assets/img/xolodilnik/137white.png",
+            "title":"Стиральная машина Shivaki 80К124-I"
+        },
+        {
+            "catalogId":6,
+            "id":2,
+            "img":"./assets/img/xolodilnik/228white.jpg",
+            "title":"Стиральная машина Shivaki 70К124-I"
+        },
+        {
+            "catalogId":6,
+            "id":3,
+            "img":"./assets/img/xolodilnik/276grey.png",
+            "title":"Полуавтоматическая стиральная машина Shivaki ART TM 65"
+        },
+        {
+            "catalogId":6,
+            "id":4,
+            "img":"./assets/img/xolodilnik/293grey.png",
+            "title":"Полуавтоматическая стиральная машина Shivaki ART TE 60 L"
+        },
+        {
+            "catalogId":6,
+            "id":5,
+            "img":"./assets/img/xolodilnik/316grey.png",
+            "title":"Полуавтоматическая стиральная машина Shivaki TG 60F 3D"
+        },
+        {
+            "catalogId":6,
+            "id":6,
+            "img":"./assets/img/xolodilnik/341white.jpg",
+            "title":"Полуавтоматическая стиральная машина Shivaki TG 80 P"
+        },
+        {
+            "catalogId":6,
+            "id":7,
+            "img":"./assets/img/xolodilnik/345white.jpg",
+            "title":"Полуавтоматическая стиральная машина Shivaki TG 100 FP"
+        },
+        {
+            "catalogId":6,
+            "id":8,
+            "img":"./assets/img/xolodilnik/360steel.png",
+            "title":"Стиральная машина Shivaki 80К124-I"
+        },
+        {
+            "catalogId":6,
+            "id":9,
+            "img":"./assets/img/xolodilnik/395white.png",
+            "title":"Стиральная машина Shivaki 70К124-I"
+        },
+        {
+            "catalogId":7,
+            "id":1,
+            "img":"./assets/img/micpech/20ux66.jpg",
+            "title":"Стиральная машина Shivaki 80К124-I"
+        },
+        {
+            "catalogId":7,
+            "id":2,
+            "img":"./assets/img/micpech/23ux39.jpg",
+            "title":"Стиральная машина Shivaki 70К124-I"
+        },
+        {
+            "catalogId":8,
+            "id":1,
+            "img":"./assets/img/minipech/3618Ered.png",
+            "title":"Стиральная машина Shivaki 80К124-I"
+        },
+        {
+            "catalogId":8,
+            "id":2,
+            "img":"./assets/img/minipech/3618L red.png",
+            "title":"Стиральная машина Shivaki 70К124-I"
+        },
+        {
+            "catalogId":8,
+            "id":3,
+            "img":"./assets/img/minipech/4218E red.png",
+            "title":"Стиральная машина Shivaki 80К124-I"
+        },
+        {
+            "catalogId":8,
+            "id":4,
+            "img":"./assets/img/minipech/4218 L grey.png",
+            "title":"Стиральная машина Shivaki 70К124-I"
+        }
+    ]
+}

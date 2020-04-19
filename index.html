@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Shivaki Catalog</title>
+</head>
+
+<body>
+    <header>
+        <nav class="navbar navbar-dark bg-danger">
+            <div class="container">
+                <div class="navbar-brand">
+                    <a href="#">
+                        Shivaki
+                    </a>
+                </div>
+            </div>
+
+        </nav>
+        <div class="swiper-container">
+            <!-- Additional required wrapper -->
+            <div class="swiper-wrapper">
+                <!-- Slides -->
+                <div class="swiper-slide"><img src="assets/img/slaider-tv_1920x600.png" alt=""></div>
+                <div class="swiper-slide"><img src="assets/img/slaider-stiralka_1920x600.png" alt=""></div>
+                <div class="swiper-slide"><img src="assets/img/slaider-vstraiv_1920x600.png" alt=""></div>
+                <div class="swiper-slide"><img src="assets/img/slaider-xolod_1920x600.png" alt=""></div>
+
+            </div>
+            <!-- If we need pagination -->
+            <div class="swiper-pagination"></div>
+
+            <!-- If we need navigation buttons -->
+            <div class="swiper-button-prev"></div>
+            <div class="swiper-button-next"></div>
+        </div>
+    </header>
+    <section class="catalog">   
+        <div class="container">
+            <div class="row d-inline-block flex-column p-2">
+                <h2>Catalog of Products</h2>
+                <button class="backbtn">X</button>
+            </div>
+            <div class="row catalog-list d-flex justify-content-between" id="catalog_list">
+ 
+            </div>
+        </div>
+    </section>
+
+    <footer></footer>
+
+
+    <script src="https://unpkg.com/swiper/js/swiper.min.js"></script>
+    <script src="js/swiper.js"></script>
+    <script src="./js/app.js"></script>
+</body>
+
+</html>
